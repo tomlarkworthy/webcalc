@@ -1,0 +1,7 @@
+{
+  "name": "WebCalc",
+  "version": "0.0.1",
+  "dependencies": {
+    "mathjs": "^5.4.2"
+  }
+}

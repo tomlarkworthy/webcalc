@@ -1,0 +1,12 @@
+{
+  "name": "WebCalcTests",
+  "version": "0.0.1",
+  "scripts": {
+      "test": "ava functions_tests/calculus_tests.js"
+  },
+  "devDependencies": {
+    "mathjs": "^5.4.2",
+    "ava": "^1.2.0",
+    "sinon": "^7.2.3"
+  }
+}

@@ -1,3 +1,10 @@
+Calculus was an interview challange. Deploy a public HTTP endpoint that base64 decodes arithmetic expressions. 
+
+You can run mine with
+
+https://us-central1-calculus-d7a63.cloudfunctions.net/calculus?query=MiAqICgyMy8oMyozKSktIDIzICogKDIqMyk
+
+
 Requirements
 ------------
 

@@ -35,11 +35,11 @@ Run emulator locally (see https://cloud.google.com/functions/docs/emulator)
 
 Deploy function to emulator
 
-   functions --project=calculus-d7a63 deploy calculus --trigger-http  --source=functions/calculus
+    functions --project=calculus-d7a63 deploy calculus --trigger-http  --source=functions/calculus
 
 Run query against emulator hosted function
 
-   curl http://localhost:8010/calculus-d7a63/us-central1/calculus?query=MiAqICgyMy8oMyozKSktIDIzICogKDIqMyk
+    curl http://localhost:8010/calculus-d7a63/us-central1/calculus?query=MiAqICgyMy8oMyozKSktIDIzICogKDIqMyk
 
 
 
